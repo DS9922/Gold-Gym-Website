@@ -1,0 +1,23 @@
+main
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(179, 57, 94, 0.445);
+    display: grid;
+    grid-template-rows: 16% 16% 16% 16% 16% auto;
+    grid-template-columns: 33% 33% auto;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+div
+{
+    height: 250px;
+    width: 425px;
+    padding: 20px;
+}
+.img
+{
+    width: 425px;
+    height: 200px;
+}

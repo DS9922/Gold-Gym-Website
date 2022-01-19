@@ -1,0 +1,104 @@
+.head1
+{
+    background-color: yellow;
+    height: 50px;
+    margin: -9px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 15px;
+    font-family: monospace;
+}
+.head2
+{
+    background-color: black;
+    height: 94px;
+    margin: -9px;
+}
+.logo1
+{
+    margin-top: 8px;
+    margin-left: 70px;
+}
+.ulnav
+{
+    list-style-type: none;
+    margin-left: 370px;
+    margin-top: -70px;
+    padding: 0;
+    overflow: hidden;
+}
+.linav
+{
+    float: left;
+}
+.Hnav
+{
+    display: block;
+    padding: 8px;
+    background-color: black;
+    font-size: 40px;
+    color: yellow;
+    text-decoration: none;
+    font-family: monospace;
+}
+.CUnav
+{
+    display: block;
+    padding: 8px;
+    background-color: black;
+    font-size: 40px;
+    color: yellow;
+    text-decoration: none;
+    font-family: monospace;
+    margin-left: 100px;
+}
+body
+{
+    background-image: url(gym2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form
+{
+    margin: 27%;
+    margin-top: 50px; 
+    margin-bottom: 40px;
+}
+footer
+{
+    background-color: black; 
+    height: 100px; 
+    margin: -9px;
+}
+.a1foot
+{
+    margin-top: 19px; 
+    margin-left: 435px;
+}
+.a2foot
+{
+    margin-left: 50px;
+}
+input
+{
+    width: 570px; 
+    height: 40px;
+}
+.ip
+{
+    width: 580px; 
+    height: 40px; 
+    background-color: yellow; 
+    font: bold;
+}
+.Gnav
+{
+    display: block;
+    padding: 8px;
+    background-color: black;
+    font-size: 40px;
+    color: yellow;
+    text-decoration: none;
+    font-family: monospace;
+    margin-left: 110px;
+}
